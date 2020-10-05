@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/creative-design-pattern/creative-design-pattern.iml" filepath="$PROJECT_DIR$/creative-design-pattern/creative-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/design-patterns.iml" filepath="$PROJECT_DIR$/.idea/design-patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-principles/design-principles.iml" filepath="$PROJECT_DIR$/design-principles/design-principles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structure-design-pattern/structure-design-pattern.iml" filepath="$PROJECT_DIR$/structure-design-pattern/structure-design-pattern.iml" />
     </modules>
   </component>
 </project>

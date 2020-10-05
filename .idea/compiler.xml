@@ -6,13 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="creative-design-pattern" />
+        <module name="structure-design-pattern" />
         <module name="design-principles" />
+        <module name="creative-design-pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="creative-design-pattern" target="1.5" />
-      <module name="design-principles" target="1.5" />
+      <module name="creative-design-pattern" target="8" />
+      <module name="design-principles" target="8" />
+      <module name="structure-design-pattern" target="8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="creative-design-pattern" options="" />
+      <module name="design-patterns" options="" />
+      <module name="design-principles" options="" />
+      <module name="structure-design-pattern" options="" />
+    </option>
   </component>
 </project>
