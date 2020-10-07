@@ -9,12 +9,14 @@
         <module name="structure-design-pattern" />
         <module name="design-principles" />
         <module name="creative-design-pattern" />
+        <module name="behavior-design-pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="creative-design-pattern" target="8" />
-      <module name="design-principles" target="8" />
-      <module name="structure-design-pattern" target="8" />
+      <module name="behavior-design-pattern" target="1.5" />
+      <module name="creative-design-pattern" target="1.5" />
+      <module name="design-principles" target="1.5" />
+      <module name="structure-design-pattern" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
