@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/behavior-design-pattern/behavior-design-pattern.iml" filepath="$PROJECT_DIR$/behavior-design-pattern/behavior-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/creative-design-pattern/creative-design-pattern.iml" filepath="$PROJECT_DIR$/creative-design-pattern/creative-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/design-patterns.iml" filepath="$PROJECT_DIR$/.idea/design-patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-principles/design-principles.iml" filepath="$PROJECT_DIR$/design-principles/design-principles.iml" />

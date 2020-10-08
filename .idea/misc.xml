@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/design-principles/pom.xml" />
         <option value="$PROJECT_DIR$/creative-design-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/structure-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/behavior-design-pattern/pom.xml" />
       </list>
     </option>
   </component>
